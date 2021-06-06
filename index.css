@@ -1,0 +1,221 @@
+.nav {
+    /* color: white; */
+    /* text-align: left; */
+    /* font-size: 30px; */
+    padding-bottom: 10px;
+}
+
+.nav-right {
+    text-align: right;
+    /* color: white; */
+    /* padding: 20px; */
+    padding-bottom: 10px;
+    margin: 10px;
+    /* text-decoration: none; */
+}
+
+a {
+    /* color: white; */
+    font-size: 35px;
+    padding: 20px;
+    text-decoration: none;
+}
+
+form {
+    /* margin-left: 300px; */
+    text-align: center;
+    margin-right: 2000px;
+    background-color: bisque;
+    width: 600px;
+    /* margin-right: 50px; */
+    text-align: center;
+}
+
+.one {
+    text-align: center;
+    border: 3px solid bisque;
+}
+
+img {
+    border-radius: 100%;
+}
+
+.rsm {
+    font-size: 14px;
+}
+
+.ct {
+    font-size: 14px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 60px;
+}
+
+
+/* button { */
+
+
+/* border-radius: 200%; */
+
+
+/* height: 60px; */
+
+
+/* width: 200px; */
+
+
+/* background-color: blue; */
+
+
+/* color: white; */
+
+
+/* width: 200px; */
+
+
+/* } */
+
+
+/* Clear floats after the columns */
+
+.ro:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.vl {
+    border-left: 3px solid blue;
+    height: 150px;
+}
+
+.min {
+    background-color: white;
+}
+
+i {
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+}
+
+.all {
+    background-color: bisque;
+    padding-left: 50px;
+}
+
+.resume {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 6px solid bisque;
+    /* border-right: 6px solid blue; */
+    /* text-align: center; */
+    margin-left: 350px;
+    margin-right: 300px;
+    padding-left: 49px;
+    background-color: bisque;
+    width: 450px;
+}
+
+.year {
+    color: blue;
+    text-decoration: underline;
+}
+
+.co {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+label {
+    font-size: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 400px;
+}
+
+
+/* Clear floats after the columns */
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.cont {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.one {
+    background-color: white;
+    /* border: 3px solid black; */
+    width: 200px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+.two {
+    background-color: white;
+    /* border: 3px solid black; */
+    width: 200px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+.three {
+    background-color: white;
+    /* border: 3px solid black; */
+    width: 200px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+.four {
+    background-color: white;
+    /* border: 3px solid black; */
+    width: 200px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+.nav a {
+    font-size: 40px;
+}
+
+.five {
+    background-color: white;
+    /* border: 3px solid black; */
+    width: 200px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+.six {
+    background-color: white;
+    /* border: 3px solid black; */
+    width: 200px;
+    text-align: center;
+    margin-left: 600px;
+}
+
+.row {
+    background-color: bisque;
+}
